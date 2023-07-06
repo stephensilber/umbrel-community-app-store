@@ -18,5 +18,5 @@ services:
         source: /storage/media/incomplete-downloads
         target: /incomplete-downloads
     ports:
-      - "8080:8080"
+      - "6969:8080"
     restart: unless-stopped
