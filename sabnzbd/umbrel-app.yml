@@ -1,19 +1,18 @@
 manifestVersion: 1
 id: reblis-sabnzbd
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
+name: SABnzbd
+tagline: The automated Usenet download tool
+icon: https://avatars.githubusercontent.com/u/960698?s=48&v=4
+category: Media
 version: "1.0.0"
 port: 4000
 description: >-
-  Add your app's description here.
+SABnzbd is an Open Source Binary Newsreader written in Python.
 
+It's totally free, easy to use, and works practically everywhere. SABnzbd makes Usenet as simple and streamlined as possible by automating everything we can. All you have to do is add an .nzb. SABnzbd takes over from there, where it will be automatically downloaded, verified, repaired, extracted and filed away with zero human interaction. SABnzbd offers an easy setup wizard and has self-analysis tools to verify your setup.
 
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
+developer: SABnzbd
+website: http://sabnzbd.org/
 submitter: Umbrel
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
